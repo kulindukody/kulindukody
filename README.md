@@ -73,7 +73,7 @@ I focus on **real‑world attack simulation**, **offensive tooling**, and **defe
 
 ### TryHackMe
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/kulindu.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/ranzyedirisinghe.png" alt="Your Image Badge" />
 
 ---
 
