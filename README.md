@@ -1,104 +1,52 @@
-# 👋 Hi, I'm Kulindu Kodithuwakku
-
-Red Team Engineer | Offensive Security | Adversary Simulation
-
-I focus on **real‑world attack simulation**, **offensive tooling**, and **defensive gap validation**. My work revolves around understanding how attackers actually operate and helping organizations build resilient defenses through practical, hands‑on security testing.
-
----
-
-## 🧠 About Me
-
-* 🎓 Graduate in Information Technology / Cybersecurity
-* 🔴 Specialized in Red Teaming & Ethical Hacking
-* 🛠️ Strong hands‑on experience with real enterprise‑like environments
-* 📚 Continuous learner, researcher, and tool builder
+<p align="center">
+  <a href=""><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXlwMDk3enA4dzh1NGpmZGN3MzAzdDU1NWhrdjZ0ZTBpMXFkM2ozcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LoBwYBdIztLgIYujMC/giphy.gif" alt="CYBER GIF" width="360px"/></a>  
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=450&lines=Cyber+Security+Enthusiast;Red+Team+Engineer;Offensive+Security;CTF+Player" alt="Typing SVG"/>
+  </a>
+</p>
 
 ---
 
-## 🧰 Core Skill Set
+## 💫 About Me
 
-### 🔴 Red Team & Offensive Security
-
-* Adversary Simulation & Purple Teaming
-* Command & Control (C2) tradecraft
-* Initial Access, Persistence & Lateral Movement
-* Privilege Escalation (Windows & Linux)
-* Evasion (AV/EDR, AMSI, basic OPSEC)
-* Malware & Loader Development (ethical / lab use)
-
-### 🕵️ Penetration Testing
-
-* Web Application Security Testing (OWASP Top 10)
-* Internal Network & Active Directory Attacks
-* Vulnerability Assessment & Penetration Testing (VAPT)
-* Post‑Exploitation & Impact Analysis
-* Reporting with risk‑based remediation
-
-### 🧪 Labs, Research & Tooling
-
-* Custom attack/defense labs (AD, Linux, monitoring)
-* Honeypots & attacker behavior analysis
-* Threat intelligence research
-* Binary exploitation & reverse engineering (intro–intermediate)
-* Automation with Python, Bash & PowerShell
+* 👨‍💻 Cybersecurity & Red Team Enthusiast
+* 🏆 TryHackMe, HackTheBox Battlegrounds & CTF competitor
+* 🛠️ Passionate about tooling, research, and real‑world attack simulation
+* 📝 Writes blogs, tooling, and security research write‑ups
 
 ---
 
-## 🏗️ Projects & Interests
+## 🚀 Tech Stack
 
-* 🧩 Red team tooling & custom loaders
-* 🛡️ Attack–defend lab environments
-* 📊 Localized threat intelligence platforms
-* 🐝 Honeypots & attacker telemetry dashboards
-* 🧠 Malware behavior research (ethical / academic)
-
-> Most repositories are built for **learning, research, and red team simulations** only.
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kali-linux\&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge\&logo=ansible\&logoColor=white) ![VSCode](https://img.shields.io/static/v1?style=for-the-badge\&message=VSCode\&color=007ACC\&logo=Visual+Studio+Code\&logoColor=FFFFFF\&label=)
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Stats
 
-* 🧪 CPTS (Certified Penetration Testing Specialist)
-* 🔐 CRTA (Certified Red Team Analyst)
-* 🌐 eJPT (eLearnSecurity Junior Penetration Tester)
-* 🛡️ CWES – Part 1
-
----
-
-## 🏆 Platforms & Labs
-
-### Hack The Box
-
-[![Hack The Box Badge](https://www.hackthebox.eu/badge/image/1348908)](https://www.hackthebox.eu/home/users/profile/1348908)
-
-### TryHackMe
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/ranzyedirisinghe.png" alt="Your Image Badge" />
+<div align="center">
+  <a href="https://github.com/kulindukody"><img align="center" width="48%" title="GitHub Stats" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kulindukody&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647"/></a>
+  <a href="https://github.com/kulindukody"><img align="center" width="48%" title="Most Used Languages" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulindukody&langs_count=10&layout=compact&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647"/></a>
+</div>
 
 ---
 
-## 📈 What You’ll Find on My GitHub
+## 🧠 Featured Platforms & Badges
 
-* ✅ Red team tools & proof‑of‑concepts
-* ✅ Lab setups & attack chains
-* ✅ Research notes & write‑ups
-* ✅ Security scripts & automation
-* ✅ Academic & community projects
+<div align="center">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/2128912" alt="TryHackMe Badge"/> 
+ <a href="https://www.hackthebox.eu/home/users/profile/1348908"><img src="https://www.hackthebox.eu/badge/image/1348908" alt="HTB Badge"></a>
+</div>
 
 ---
 
 ## ☕ Support My Work
 
-If you find my projects useful or learn something from them, you can support me here:
-
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee\&emoji=☕\&slug=kulindukody\&button_colour=FF5F5F\&font_colour=ffffff\&font_family=Cookie\&outline_colour=000000\&coffee_colour=FFDD00)](https://www.buymeacoffee.com/kulindukody)
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="kulindukody" data-color="#FF5F5F" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 ---
 
 ## ⚠️ Disclaimer
 
-All content in this GitHub is intended **strictly for educational, research, and authorized security testing purposes**. Do not use any techniques or tools here on systems you do not own or have explicit permission to test.
-
----
-
-⭐ If you like what you see, consider starring a repo or following my work.
+All content is intended **strictly for educational, research, and authorized security testing purposes only**.
