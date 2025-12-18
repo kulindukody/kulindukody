@@ -1,5 +1,5 @@
 <p align="center">
-  <a href=""><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YXlwMDk3enA4dzh1NGpmZGN3MzAzdDU1NWhrdjZ0ZTBpMXFkM2ozcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LoBwYBdIztLgIYujMC/giphy.gif" alt="CYBER GIF" width="360px"/></a>  
+  <a href=""><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B3Z2s4d3g4NGRxZjRzZHBqY2x0c2YxMGl3Z3J5eW44dTZ4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" alt="CYBER GIF" width="360px"/></a>  
   <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=450&lines=Cyber+Security+Enthusiast;Red+Team+Engineer;Offensive+Security;CTF+Player" alt="Typing SVG"/>
@@ -26,16 +26,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/kulindukody"><img align="center" width="48%" title="GitHub Stats" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kulindukody&show_icons=true&count_private=true&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647&icon_color=0ac647"/></a>
-  <a href="https://github.com/kulindukody"><img align="center" width="48%" title="Most Used Languages" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulindukody&langs_count=10&layout=compact&theme=transparent&title_color=999999&text_color=999999&border_color=0ac647"/></a>
-</div>
-
----
-
-## 🧠 Featured Platforms & Badges
-
-<div align="center">
- <img src="https://tryhackme-badges.s3.amazonaws.com/2128912" alt="TryHackMe Badge"/> 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/ranzyedirisinghe.png" alt="TryHackMe Badge"/> 
  <a href="https://www.hackthebox.eu/home/users/profile/1348908"><img src="https://www.hackthebox.eu/badge/image/1348908" alt="HTB Badge"></a>
 </div>
 
@@ -43,7 +34,7 @@
 
 ## ☕ Support My Work
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="kulindukody" data-color="#FF5F5F" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee\&emoji=☕\&slug=kulindukody\&button_colour=FF5F5F\&font_colour=ffffff\&font_family=Cookie\&outline_colour=000000\&coffee_colour=FFDD00)](https://www.buymeacoffee.com/kulindukody)
 
 ---
 
