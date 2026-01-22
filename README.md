@@ -23,11 +23,11 @@ I don’t just use tools — I **build them, modify them, and break detections**
 ---
 
 ## 🎓 Certifications
-- **CPTS** – Certified Penetration Testing Specialist  
-- **CWES** – Certified Windows Exploitation Specialist  
-- **PT1** – Practical Red Teaming  
-- **CRTA** – Certified Red Team Analyst  
-- **eJPT** – eLearnSecurity Junior Penetration Tester  
+- **CPTS** – Certified Penetration Testing Specialist  - Hack The Box
+- **CWES** – Certified Web Exploitation Specialist   - Hack The Box
+- **PT1** – Penetration Testing 1 - Try Hack Me 
+- **CRTA** – Certified Red Team Analyst  - Cyberwarfare Labs
+- **eJPT** – eLearnSecurity Junior Penetration Tester  - INE Security
 
 ---
 
