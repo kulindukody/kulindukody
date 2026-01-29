@@ -32,6 +32,3 @@ I don’t just use tools — I **build them, modify them, and break detections**
 
 > *“To defend effectively, you must think, act, and build like an adversary.”*
 
-## GitHub Stats
-
-
