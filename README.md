@@ -1,5 +1,3 @@
-# 👾 Red Team | Malware Development | Adversary Tradecraft
-
 I’m a **Red Team Engineer & Malware Developer** focused on building, breaking, and understanding offensive security from the attacker’s perspective.
 
 My work revolves around:
