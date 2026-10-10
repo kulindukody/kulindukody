@@ -22,6 +22,8 @@ I don’t just use tools — I **build them, modify them, and break detections**
 ---
 
 ## Certifications
+- **CRTO** – Certified Red Team Operator  - Zero Point Security
+- **CRTP** – Certified Red Team Professional  - Altered Security
 - **CPTS** – Certified Penetration Testing Specialist  - Hack The Box
 - **CWES** – Certified Web Exploitation Specialist   - Hack The Box
 - **PT1** – Penetration Testing 1 - Try Hack Me 
